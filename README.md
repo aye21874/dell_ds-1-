@@ -7,3 +7,6 @@ Customer?
 4. Which month of the year does the company usually make the highest sales?
 5. Predict sales for the next quarter using a data driven analytics approach
 6. Find Product categories sold by the company which are more prone to customer dissatisfaction
+
+
+(Note: These were questions given by Dell for participating in a project)
